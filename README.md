@@ -29,18 +29,25 @@ Avril 2026
 ## Images
 Images
 
-![login](image.png)
+<img width="428" height="380" alt="image" src="https://github.com/user-attachments/assets/063cd77b-57bb-4711-a3f2-802bd9bb9897" />
 
-![Register](image-1.png)
+<img width="1366" height="687" alt="image" src="https://github.com/user-attachments/assets/e52ff759-6e5b-4921-912d-2ca52b407e9b" />
 
-![HomePage](image-5.png)
+<img width="867" height="670" alt="image" src="https://github.com/user-attachments/assets/2e9fc152-5ffd-4fad-bd69-1f0434e8c934" />
 
-![BookPage](image-9.png)
+<img width="872" height="543" alt="image" src="https://github.com/user-attachments/assets/06b3976f-81f9-4ce7-884a-db13e4ad8ec8" />
 
-![BookDetailsPage](image-10.png)
+<img width="889" height="553" alt="image" src="https://github.com/user-attachments/assets/01723a48-58cb-4494-8dc3-14e509703cb9" />
 
-![BookEditPage](image-11.png)
+<img width="885" height="548" alt="image" src="https://github.com/user-attachments/assets/406cb922-7954-4cd4-9b62-da017acdad0b" />
 
-![CategoryPage](image-7.png)
+<img width="899" height="595" alt="image" src="https://github.com/user-attachments/assets/ffcfcc82-2c07-49a7-b428-04b952f5bb15" />
 
-![AboutPage](image-8.png)
+<img width="1297" height="633" alt="image" src="https://github.com/user-attachments/assets/6b838208-ac38-452b-a5da-66e1c52744b6" />
+
+<img width="476" height="507" alt="image" src="https://github.com/user-attachments/assets/8bff0ca0-c347-44cf-8cb4-16b6ab13c416" />
+
+
+
+
+
